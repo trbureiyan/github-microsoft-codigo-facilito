@@ -1,4 +1,4 @@
-##Repositorio comunitario ✅🚀
+## Repositorio comunitario ✅🚀
 
 # github-microsoft-codigo-facilito
 > ⚠️ **Descargo de responsabilidad:** Este repositorio fue creado únicamente con fines educativos y de práctica. No está afiliado, asociado ni respaldado por la empresa Código Facilito (https://codigofacilito.com). El nombre del repositorio se utiliza de manera informal y sin intención de infringir ninguna marca registrada. Si la empresa lo solicita, estamos totalmente dispuestos a cambiar el nombre del repositorio.
