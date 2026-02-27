@@ -456,3 +456,29 @@ Mil gracias a Daniela por la fantástica iniciativa 🧡 ¡Encantada de estar po
 ### Rosa
 
 ¡Hola! Soy Rosa y vivo en España. Estoy aprendiendo python, ciencia de datos, IA y ¡agradezco la oportunidad de poder practicar GitHub en equipo!
+
+---
+
+# ¡Hola! Soy Beatriz Ebert 👩‍💻 
+![Beatriz Ebert](https://github.com/Beaebert)
+**Analista Programadora · Full-Stack .NET Developer C# · Clean Architecture · Blazor · SQL**  
+📍 Buenos Aires, Argentina
+
+> Apasionada por el desarrollo de software, las API y la intersección entre tecnología y arte.  
+> Actualmente explorando el ecosistema Microsoft: .NET 10, Blazor WebAssembly, Azure y más.
+
+## 🚧 En qué estoy trabajando ahora
+
+> **Justina · Simulador Quirúrgico Robótico** · [No Country Simulación Laboral - Feb 2026](https://github.com/No-Country-simulation/S02-26-Equipo-66-Vibe-Coding)
+
+Plataforma de simulación y entrenamiento para cirugía robótica mínimamente invasiva.
+Permite a cirujanos ensayar trayectorias con un brazo robótico virtual antes de operar en vivo.
+
+**Mi rol:** Analista & Full Stack .NET · Arquitectura desacoplada (Clean Architecture) · Scrum Master Acting
+
+![C#](https://img.shields.io/badge/C%23-.NET_10-239120?style=flat&logo=csharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor_WebAssembly-512BD4?style=flat&logo=blazor&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core_API-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite+EF_Core-003B57?style=flat&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
