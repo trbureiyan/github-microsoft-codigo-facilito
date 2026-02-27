@@ -460,7 +460,9 @@ Mil gracias a Daniela por la fantástica iniciativa 🧡 ¡Encantada de estar po
 ---
 
 # ¡Hola! Soy Beatriz Ebert 👩‍💻 
+
 ![Beatriz Ebert](https://github.com/Beaebert)
+
 **Analista Programadora · Full-Stack .NET Developer C# · Clean Architecture · Blazor · SQL**  
 📍 Buenos Aires, Argentina
 
